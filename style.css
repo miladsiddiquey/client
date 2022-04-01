@@ -1,0 +1,59 @@
+
+/********** Header section **********/
+.header{
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo img{
+    width: 200px;
+}
+.brand{
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: -2px 10px 21px 3px #d4e8f3;
+-webkit-box-shadow: -2px 10px 21px 3px #d4e8f3;
+-moz-box-shadow: -2px 10px 21px 3px #d4e8f3;
+    
+}
+.brand h6{
+    font-weight: bold;
+}
+.brand img{
+    width: 400px;
+    justify-content: center;
+    display: flex;
+}
+.banner-right h2{
+    text-transform: capitalize;
+}
+.banner-right h4{
+    text-transform: capitalize;
+}
+.forms{
+    border: 1px solid gray;
+    border-radius: 10px;
+
+}
+form {  
+   padding: 10px;
+}
+.top_text{
+    padding: 10px;
+}
+.forms img{
+    width:20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.forms input{
+    width: 400px;
+   
+}
+.forms h4{
+    background: darkblue;
+   color: #fff;
+   padding: 5px 0;
+    
+}
